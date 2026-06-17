@@ -1,0 +1,25 @@
+Pruebas de rutas del servidor
+
+Ruta:
+http://localhost:3000
+
+Resultado:
+Al ingresar a esta ruta, el servidor responde con el mensaje: Servidor activo.
+
+Ruta:
+http://localhost:3000/saludo
+
+Resultado:
+Al ingresar a esta ruta, el servidor responde con el mensaje: Hola comunidad.
+
+Ruta:
+http://localhost:3000/mensaje/juan
+
+Resultado:
+Al ingresar a esta ruta, el servidor recibe el nombre juan como parámetro y responde con el mensaje: Hola juan.
+
+Ruta:
+POST http://localhost:3000/reporte
+
+Resultado:
+Esta ruta permite enviar un mensaje en formato JSON. El servidor recibe el reporte y devuelve una respuesta indicando que el reporte fue recibido.
