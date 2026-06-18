@@ -1,0 +1,21 @@
+Prueba de la ruta GET /reportes
+
+Al consultar la ruta GET http://localhost:3000/reportes, el servidor devuelve la lista de reportes registrados en memoria.
+
+Si todavía no se ha enviado ningún reporte, la respuesta será un array vacío:
+
+[]
+
+Después de enviar un reporte con POST, la ruta GET /reportes muestra los reportes guardados.
+
+Ejemplo de respuesta esperada:
+
+[
+  {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
+]
+
+Esto demuestra que la API puede registrar y consultar información usando un array en memoria.
