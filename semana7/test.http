@@ -1,0 +1,26 @@
+### Consultar reportes iniciales
+GET http://localhost:3000/reportes
+
+
+### Registrar primer reporte
+POST http://localhost:3000/reportes
+Content-Type: application/json
+
+{
+  "tipo": "Infraestructura",
+  "descripcion": "Daño en alumbrado público"
+}
+
+
+### Registrar segundo reporte
+POST http://localhost:3000/reportes
+Content-Type: application/json
+
+{
+  "tipo": "Ambiente",
+  "descripcion": "Acumulación de residuos en una zona comunitaria"
+}
+
+
+### Consultar reportes después de registrar
+GET http://localhost:3000/reportes

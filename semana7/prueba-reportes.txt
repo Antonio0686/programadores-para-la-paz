@@ -8,7 +8,7 @@ Si todavía no se ha enviado ningún reporte, la respuesta será un array vacío
 
 Después de enviar un reporte con POST, la ruta GET /reportes muestra los reportes guardados.
 
-Ejemplo de respuesta esperada:
+Ejemplo de respuesta:
 
 [
   {
