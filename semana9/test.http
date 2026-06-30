@@ -1,0 +1,6 @@
+### Probar ruta principal del servidor
+GET http://localhost:3000/
+
+
+### Probar estado del servidor
+GET http://localhost:3000/estado
