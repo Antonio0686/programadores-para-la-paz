@@ -8,4 +8,5 @@ priorizar las tareas pendientes; por otro, las iteraciones posibilitan un avance
 proceso. Este enfoque cíclico garantiza que el equipo pueda evaluar constantemente su desempeño y realizar las mejoras necesarias.
 En cuanto a la operatividad, la automatización es una aliada estratégica para gestionar tareas repetitivas, como el envío de avisos o 
 recordatorios, mientras que plataformas como Telegram funcionan como canales ágiles para la coordinación del equipo. 
-Si bien estas herramientas optimizan la comunicación y el seguimiento, su implementación debe ser cautelosa, especialmente al manejar información sensible. Por ello, la automatización nunca debe sustituir el criterio humano, siendo fundamental mantener roles claramente definidos y una gestión responsable de los datos.
+Si bien estas herramientas optimizan la comunicación y el seguimiento, su implementación debe ser cautelosa, especialmente al manejar información sensible. 
+Por ello, la automatización nunca debe sustituir el criterio humano, siendo fundamental mantener roles claramente definidos y una gestión responsable de los datos.
