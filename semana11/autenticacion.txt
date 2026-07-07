@@ -1,0 +1,7 @@
+El sistema de inicio de sesión (login) es fundamental para identificar a los usuarios y delimitar sus capacidades dentro de la plataforma. 
+Este control es esencial para supervisar quién accede al sistema y determinar las acciones que cada perfil puede ejecutar. 
+En este sentido, es imperativo proteger rutas críticas que contengan información privada o registros internos, aplicando un control de 
+permisos basado estrictamente en el rol de cada usuario para evitar que personas no autorizadas creen, modifiquen o eliminen información 
+sensible. Asimismo, la seguridad de la plataforma depende de la protección de datos críticos (como contraseñas, documentos, teléfonos, 
+direcciones, tokens y claves de API), los cuales nunca deben exponerse públicamente. Mitigar estos riesgos es la mejor estrategia para 
+garantizar la privacidad de los datos y prevenir el uso indebido de los mismos.
