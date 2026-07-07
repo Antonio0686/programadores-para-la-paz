@@ -1,0 +1,13 @@
+Las 2 tareas del backlog que haría primero son:
+
+1. Registrar una incidencia.
+2. Consultar los reportes registrados.
+
+Estas tareas son las más importantes porque permiten recibir la información de la comunidad y luego hacer seguimiento a los casos registrados.
+
+Para mí, una tarea está terminada cuando cumple con los siguientes criterios:
+
+1. Funciona correctamente.
+2. Fue probada.
+3. Quedó registrada en Git.
+4. No usa datos personales sensibles.
