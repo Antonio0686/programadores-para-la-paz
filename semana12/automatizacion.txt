@@ -1,0 +1,11 @@
+Herramienta:
+n8n y Telegram.
+
+Evento que activa la automatización:
+Una nueva causa es registrada en la plataforma.
+
+Mensaje enviado a Telegram:
+“Nueva causa comunitaria registrada. Ingrese a la plataforma para revisarla.”
+
+Información que no debe enviarse:
+No se deben enviar documentos de identidad, teléfonos, direcciones, contraseñas, tokens, claves de API ni información personal sensible.

@@ -1,0 +1,13 @@
+Pregunta 10 — Reflexión de la semana
+
+¿Qué aprendiste durante el curso sobre el uso de la tecnología para fortalecer la participación ciudadana y la organización comunitaria?
+
+Respuesta:
+Durante este curso aprendí que la tecnología ayuda mucho a que las personas participen más en su comunidad. 
+Una buena plataforma no solo organiza causas, reportes y apoyos, sino que también permite revisarlos y darles seguimiento fácilmente.
+También entendí cómo funciona el backend, es la parte que recibe y procesa lo que hacen los usuarios. 
+Usa bases de datos para guardar y ordenar la información, y sistemas de acceso con distintos roles para controlar 
+quién puede ver o usar cada cosa. Además, aprendí que la seguridad y la privacidad son muy importantes en todo momento del desarrollo. 
+La automatización ayuda a hacer tareas más rápido, como enviar notificaciones, pero siempre se necesita que una persona supervise y cuide
+los datos sensibles. En conclusión, la tecnología tiene un impacto positivo en la sociedad cuando se usa de forma segura y responsable,
+pensando siempre en las necesidades reales de la comunidad.
